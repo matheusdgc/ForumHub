@@ -21,3 +21,5 @@ Possui funcionalidades que permitem o cadastro de usuários, topicos cursos, e r
 [![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://insomnia.rest/download)
 [![Spring Sec](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](https://spring.io/projects/spring-security)
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://jwt.io/)
+
+<img src="Badge-Spring.png" alt="badge_spring">
